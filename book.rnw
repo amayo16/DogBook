@@ -1,0 +1,24 @@
+\documentclass{book}
+
+
+\begin{document}
+\title{The Wonderful World of Dogs}
+\author{Andrew Mayo \and Judy Minichelli}
+\date{}
+\maketitle
+
+\tableofcontents
+
+<<child='children/chapter1.Rnw'>>=
+
+@
+
+<<child='children/chapter2.Rnw'>>=
+
+@
+
+<<child='children/chapter3.Rnw'>>=
+
+@
+
+\end{document}
